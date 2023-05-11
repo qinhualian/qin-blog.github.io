@@ -1,3 +1,6 @@
+# JS
+[JS小试题总结楼](https://github.com/qinhualian/qinhualian.github.io/issues/6)
+
 # typescript
 
 [typescript类型体操](https://github.com/qinhualian/qinhualian.github.io/issues/1)
