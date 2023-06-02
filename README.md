@@ -4,6 +4,7 @@
 # typescript
 
 - [typescript类型体操](https://github.com/qinhualian/qinhualian.github.io/issues/1)
+- [typeof、keyof](https://github.com/qinhualian/qinhualian.github.io/issues/8)
 
 
 # CSS
